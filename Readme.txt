@@ -14,4 +14,3 @@ Gmail:
 
 mtgarenapwn@gmail.com
  
-TWOJA STARA TO PETARDA
