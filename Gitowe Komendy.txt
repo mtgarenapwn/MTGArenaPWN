@@ -1,1 +1,16 @@
-- git checkout -b 'nazwa branchy' ---- tworzenie nowej branchy
+git checkout -b nazwabranchy ---- tworzenie nowej branchy
+
+PO SKONCZONEJ PRACY NA BRANCHY
+
+git add -A ----- dodawanie plików untracked przed commitem
+
+git commit -a -m 'tresc messagu' ------ '-a dodawanie plikow do commita, -m dodawanie message, twoja tresc messagu'
+
+git push origin nazwabranchy ------ ' pushowanie swojych zmian i swojej branchy z lokalnej na globalna'
+
+
+PO ZMERGOWANIU NA GITBASHU
+
+git checkout master ----- prze³¹czenie siê na branch mastera
+
+git pull origin master ----- spullowanie zmian spushowanych wczesniej przec ciebie z mastera globalnie do siebie lokalnie
