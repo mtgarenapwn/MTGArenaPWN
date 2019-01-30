@@ -1,0 +1,15 @@
+.banner{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.5;
+    width: 100%;
+    height: auto;
+}
+
+.menu-container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
